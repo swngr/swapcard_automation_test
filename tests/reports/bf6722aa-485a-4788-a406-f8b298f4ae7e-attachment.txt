@@ -1,0 +1,37 @@
+[DEBUG] Found 36 elements with rating
+[DEBUG] EVEN Index 0: Rating = 5.0
+[DEBUG] ODD Index 1: Skipping
+[DEBUG] EVEN Index 2: Rating = 4.8
+[DEBUG] ODD Index 3: Skipping
+[DEBUG] EVEN Index 4: Rating = 4.8
+[DEBUG] ODD Index 5: Skipping
+[DEBUG] EVEN Index 6: Rating = 4.4
+[DEBUG] ODD Index 7: Skipping
+[DEBUG] EVEN Index 8: Rating = 5.0
+[DEBUG] ODD Index 9: Skipping
+[DEBUG] EVEN Index 10: Rating = 4.8
+[DEBUG] ODD Index 11: Skipping
+[DEBUG] EVEN Index 12: Rating = 4.8
+[DEBUG] ODD Index 13: Skipping
+[DEBUG] EVEN Index 14: Rating = 3.8
+[DEBUG] ODD Index 15: Skipping
+[DEBUG] EVEN Index 16: Rating = 4.8
+[DEBUG] ODD Index 17: Skipping
+[DEBUG] EVEN Index 18: Rating = 4.8
+[DEBUG] ODD Index 19: Skipping
+[DEBUG] EVEN Index 20: Rating = 4.8
+[DEBUG] ODD Index 21: Skipping
+[DEBUG] EVEN Index 22: Rating = 4.8
+[DEBUG] ODD Index 23: Skipping
+[DEBUG] EVEN Index 24: Rating = 4.6
+[DEBUG] ODD Index 25: Skipping
+[DEBUG] EVEN Index 26: Rating = 4.9
+[DEBUG] ODD Index 27: Skipping
+[DEBUG] EVEN Index 28: Rating = 4.9
+[DEBUG] ODD Index 29: Skipping
+[DEBUG] EVEN Index 30: Rating = 4.0
+[DEBUG] ODD Index 31: Skipping
+[DEBUG] EVEN Index 32: Rating = 4.8
+[DEBUG] ODD Index 33: Skipping
+[DEBUG] EVEN Index 34: Rating = 4.6
+[DEBUG] ODD Index 35: Skipping
