@@ -189,9 +189,3 @@ pytest==8.2.1
 allure-pytest==2.13.2
 webdriver-manager==4.0.1
 ```
-
----
-
-## ✅ Done!
-
-You're ready to run the test, capture reports, and explore how ratings are validated dynamically from live Google Shopping results.
